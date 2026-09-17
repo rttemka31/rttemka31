@@ -1,6 +1,6 @@
 ### hello! 
 ### i'm rttemka31
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ВАШ_ID_ПОЛЬЗОВАТЕЛЯ)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rttemka31_paws)
 
 <!--
 **rttemka31/rttemka31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
