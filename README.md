@@ -1,7 +1,6 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,23,34,45&text=hello!&height=100&section=header&fontSize=40)
-### i'm rttemka31
-
 <img src="static/title.svg" alt="hello">
+
+### i'm rttemka31
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rttemka31_paws)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/994279170110656623)
