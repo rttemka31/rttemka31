@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/title.svg" alt="hello">
+  <img src="static/title.svg" alt="hello" width=33%>
 </p>
 
 ### i'm rttemka31
