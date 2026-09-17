@@ -1,5 +1,5 @@
 ### hello! 
-i'm rttemka31(or Prvaas)
+### i'm rttemka31
 
 <!--
 **rttemka31/rttemka31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
