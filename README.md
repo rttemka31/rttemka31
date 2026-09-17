@@ -2,7 +2,7 @@
   <img src="static/title.svg" alt="hello" width=15%>
 </p>
 
-### i'm rttemka31
+## i'm rttemka31
 
 <p align="left">
   <img src="static/socials.svg" alt="my socials" width=25%>
