@@ -5,7 +5,7 @@
 ### i'm rttemka31
 
 <p align="left">
-  <img src="static/socials.svg" alt="my socials" width=32.5%>
+  <img src="static/socials.svg" alt="my socials" width=350>
 </p>
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rttemka31_paws)
