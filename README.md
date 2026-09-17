@@ -1,6 +1,7 @@
-<p align="left">
+<p align="center">
   <img src="static/title.svg" alt="hello">
 </p>
+
 ### i'm rttemka31
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rttemka31_paws)
