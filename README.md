@@ -1,4 +1,4 @@
-### hello! 
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,23,34,45&text=hello!&height=100&section=header&fontSize=40)
 ### i'm rttemka31
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rttemka31_paws)
