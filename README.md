@@ -1,4 +1,10 @@
-## Hi there 👋
+### hello! 
+i'm ваш_ник
+
+i like coding things
+i'll share the projects im working on here
+
+('^.^')9
 
 <!--
 **rttemka31/rttemka31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
