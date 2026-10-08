@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="static/title.svg" alt="hello" width=15%>
+  <img src="static/title.svg" alt="hello" width=17.5%>
 </p>
 
 ## i'm rttemka31
 
 <p align="left">
-  <img src="static/socials.svg" alt="my socials" width=25%>
+  <img src="static/socials.svg" alt="my socials" width=30%>
 </p>
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rttemka31_paws)
