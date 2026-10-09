@@ -12,6 +12,7 @@
   <a href="https://www.tiktok.com/@rttemka31_paws"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"></a>
   <a href="https://discord.com/users/994279170110656623"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://steamcommunity.com/profiles/76561199258211130"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://x.com/rttemka31_paw"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 </p>
 
 <p align="left">
