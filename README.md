@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="static/title.svg" alt="hello" width=27.5%>
+  <img src="static/title.svg" alt="hello" width=26%>
 </p>
 
 ## i'm rttemka31
 
 <p align="left">
-  <img src="static/socials.svg" alt="my socials" width=25%>
+  <img src="static/socials.svg" alt="my socials" width=23%>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  <img src="static/arsenal.svg" alt="my socials" width=25%>
+  <img src="static/arsenal.svg" alt="my socials" width=23%>
 </p>
 
 <p align="center">
