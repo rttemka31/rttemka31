@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="static/banner.webp" alt="banner" width=100%>
 </p>
 
@@ -6,13 +6,13 @@
   <img src="static/title.svg" alt="hello" width=26%>
 </p>
 
-## i'm rttemka31
+# i'm rttemka31
 
 <p align="left">
   <img src="static/socials.svg" alt="my socials" width=23%>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.tiktok.com/@rttemka31_paws"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"></a>
   <a href="https://discord.com/users/994279170110656623"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://steamcommunity.com/profiles/76561199258211130"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
@@ -23,7 +23,7 @@
   <img src="static/arsenal.svg" alt="my socials" width=23%>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
