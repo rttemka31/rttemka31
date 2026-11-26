@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="static/banner.webp" alt="banner" width=100%>
+</p>
+
 <p align="left">
   <img src="static/title.svg" alt="hello" width=26%>
 </p>
